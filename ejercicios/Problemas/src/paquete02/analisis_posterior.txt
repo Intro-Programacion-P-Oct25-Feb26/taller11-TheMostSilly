@@ -1,0 +1,5 @@
+La parte más complicada para mí fue la construcción de los métodos: funciones y
+procedimientos ya que su estructura es en parte difícil de analizar. Un error 
+que cometí al inicio fue el no haber declarado el Scanner para pedir datos por 
+teclado, lo corregí al usar otros ejercicios que ya tenían. Considero que lo más
+importante son las funciones y aprendí a devolver datos con estas.

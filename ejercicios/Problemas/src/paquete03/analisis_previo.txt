@@ -1,0 +1,6 @@
+El presente problema requiere de 3 procedimientos que van a ser invocados me-
+diante la opción que el usuario escoja: si es 1 se invoca al procedimiento 1 que
+calcula el área del cuadrado, si ingresa 2 invoca al segundo procedimiento que 
+calcula el área del triángulo, si ingresa 3 invoca al tercer procedimiento que 
+calcula el área del rectángulo. Se necesitan condicionales y se presenta el área
+acorde a la opción escogida.
