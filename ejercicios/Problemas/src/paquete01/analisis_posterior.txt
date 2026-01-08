@@ -1,0 +1,5 @@
+La parte que me resultó más complicada fue la concatenación de los datos para
+después presentarlos en la cadena. Un error que cometí y corregí posteriormente
+fue el haber puesto un ciclo for en lugar de 2, lo corregí ya que me di cuenta 
+que estábamos trabajando con arreglo bidimensional. Considero que el condicional
+es lo más importante y aprendí a presentar reportes con el uso de procedimientos.

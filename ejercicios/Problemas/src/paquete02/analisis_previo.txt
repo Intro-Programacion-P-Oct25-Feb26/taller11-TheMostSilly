@@ -1,0 +1,6 @@
+Este problema necesita como datos 3 funciones y 1 procedimiento, en la primera
+función se piden los nombres de las viviendas, la segunda solicita los valores
+de consumo eléctricos mensuales, la tercera debe calcular la suma total anual de 
+consumo por vivienda y el procedimiento debe generar un reporte con los datos 
+anteriores. Intervienen ciclos repetitivos y una cadena para presentar el reporte 
+final que es lo que se espera.
