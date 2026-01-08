@@ -1,0 +1,5 @@
+El presente problema requiere de dos métodos: uno principal, desde el cual se va
+a invocar al segundo método que es una función que va a sumar los elementos de 
+los arreglos que recibe como parámetro (que van en el método principal). Se 
+requieren de ciclos repetitivos para resolver el problema, lo que se espera es la
+suma.

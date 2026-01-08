@@ -58,14 +58,14 @@ public class Problema4 {
     }
 
     public static void calcularPredio(String a, String b) {
-        double valorInmueble;
+        double valorInmueblee;
         double valorPredio;
         System.out.println("Ingrese el valor del inmueble");
-        valorInmueble = entrada.nextDouble();
-        valorPredio = valorInmueble * 0.02;
+        valorInmueblee = entrada.nextDouble();
+        valorPredio = valorInmueblee * 0.02;
         System.out.printf("Cliente %s con cédula %s tiene un bien inmueble"
                 + " valorado en %.2f y tiene que pagar de predio %.2f", a, b,
-                valorInmueble, valorPredio);
+                valorInmueblee, valorPredio);
 
     }
 }
