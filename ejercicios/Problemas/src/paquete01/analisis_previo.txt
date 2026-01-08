@@ -1,0 +1,5 @@
+El presente código va a utilizar el arreglo bidimensional llamado informacion,
+el cual cuenta con una serie de números que van a ser usados dentro de una 
+función llamada imprimirDatos para presentar los datos que sean pares usando un
+ciclo repetitivo for y un condicional, para posteriormente ser concatenados y 
+presentados en una cadena.
