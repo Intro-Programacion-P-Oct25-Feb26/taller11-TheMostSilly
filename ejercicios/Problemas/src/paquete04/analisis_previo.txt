@@ -1,0 +1,6 @@
+El presente problema da a elegir si se quiere calcular el valor de una planilla
+o el valor de un bien inmueble dentro de un método principal. Para ello, requie-
+de dos procedimientos: ambos presentan reportes acorde a la opción elegida, am-
+bos piden los valores correspondientes y ambos deben tener como parámetros cade-
+na para el nombre y la cédula. Se espera que devuelvan el reporte acorde a la 
+opción elegida por el usuario (1 = planilla, 2 = inmueble)
