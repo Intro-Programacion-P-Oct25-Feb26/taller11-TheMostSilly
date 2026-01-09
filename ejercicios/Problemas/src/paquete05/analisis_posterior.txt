@@ -1,0 +1,5 @@
+La parte que me resultó más complicada de entender fue la impresión del resulta-
+do cuando se trata de arreglos bidimensionales, porque se necesita entender muy
+bien el concepto de print. Un error que cometí al inicio fue el no haber declara-
+do una variable para sumar los resultados en la función. Considero que la parte
+más importante fue la función y he aprendido a sumar arreglos bidimensionales.

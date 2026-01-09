@@ -1,0 +1,6 @@
+El presente ejercicio necesita de 3 métodos: uno principal, dentro del cual se 
+invocarán las otras 2 funciones: la primera saca el valor de la media aritmética
+de un arreglo que recibé como parámetro y la segunda recibe como parámetros la 
+función anterior y el arreglo declarado en el método principal. Intervienen 
+ciclos repetitivos, asimismo el resultado que se espera imprimir es el valor de 
+la media y la desviación estándar dentro del método principal.
