@@ -1,0 +1,6 @@
+El problema necesita de un método principal, una función y un procedimiento. En
+la función se devuelve un arreglo unidimensional de cadenas, pidiendo por teclado
+el número de elementos del arreglo, el procedimiento recibe como parámetros un 
+arreglo unidimensional de cadenas e imprime valores que tengan 4 o 5 caracteres.
+El método principal invoca a los dos métodos antes mencionados y se espera que el
+código imprima los valores con las condiciones dadas anteriormente.

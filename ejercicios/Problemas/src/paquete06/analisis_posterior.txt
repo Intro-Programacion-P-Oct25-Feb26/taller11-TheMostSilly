@@ -1,0 +1,6 @@
+La parte que me resultó más complicada de entender fue el sacar la desviación
+estándar porque es una fórmula compleja para representar. Un error que cometí al
+inicio fue el no haber puesto los argumentos de las funciones y fui corrigiendo 
+eso a medida que declaraba las funciones fuera del método principal. Considero a 
+las funciones como más importantes y aprendí a hacer fórmulas complejas.
+ 
