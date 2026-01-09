@@ -1,0 +1,5 @@
+Realmente, no hubo alguna parte de este problema que se me haya complicado, pues-
+to que ya había trabajado con arreglos unidimensionales y sus usos dentro de las
+funciones. No cometí error alguno, todo estaba muy claro, considero que la parte
+más importante de la solución fue el generar el procedimiento puesto que ayuda a
+imprimir lo necesario. Realmente como dije, todo estuvo claro y no aprendí nada.

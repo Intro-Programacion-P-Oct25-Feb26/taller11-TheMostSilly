@@ -17,7 +17,7 @@ public class Problema7 {
 
     public static void main(String[] args) {
         String[] ciudades = arregloCiudades();
-        imprimirCaracteres(ciudades);
+        imprimir(ciudades);
 
     }
 
@@ -35,7 +35,7 @@ public class Problema7 {
         return ciudades;
     }
 
-    public static void imprimirCaracteres(String[] a) {
+    public static void imprimir(String[] a) {
         System.out.println("\nCiudades con 4 o 5 caracteres:");
         for (int i = 0; i < a.length; i++) {
             int longitud = a[i].length();
